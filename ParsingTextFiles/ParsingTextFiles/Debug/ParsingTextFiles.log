@@ -1,0 +1,4 @@
+﻿  ParsingTextFiles.cpp
+c:\users\lenovo\documents\visual studio 2015\projects\parsingtextfiles\parsingtextfiles\parsingtextfiles.cpp(2): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  ParsingTextFiles.vcxproj -> c:\users\lenovo\documents\visual studio 2015\Projects\ParsingTextFiles\Debug\ParsingTextFiles.exe
+  ParsingTextFiles.vcxproj -> c:\users\lenovo\documents\visual studio 2015\Projects\ParsingTextFiles\Debug\ParsingTextFiles.pdb (Full PDB)
